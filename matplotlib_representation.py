@@ -3,8 +3,8 @@ import numpy as np
 
 # Create vectors for the coordinate frame
 origin = np.zeros(3)
-x_axis = [0, -1, 0]
-y_axis = [1, 0, 0]
+x_axis = [0, 1, 0]
+y_axis = [-1, 0, 0]
 z_axis = [0, 0, 1]
 
 # Visualize the coordinate frame
